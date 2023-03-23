@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hope you could be happy every day!
+
 [![TyrealHu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyrealhu)](https://github.com/anuraghazra/github-readme-stats)
 
 
