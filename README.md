@@ -5,4 +5,4 @@
 
 - 🔭 I’m currently working on [@ByteDance](https://www.bytedance.com/en/)
 - 👯 I’m looking to collaborate on Javascript, Typescript, Cross Platform and Rust.
-- 📫 How to reach me: email: tyrealhu.fe@gmail.com
+- 📫 How to contact me: email: tyrealhu.fe@gmail.com
