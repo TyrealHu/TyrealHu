@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Life only live once. So I hope you guys could be happy every day!
-
 #### About Me.
 Im a Frontend Software Engineer.
 
